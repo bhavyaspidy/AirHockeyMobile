@@ -1,4 +1,4 @@
-# AirHockeyMobile
+	# AirHockeyMobile
 
 A polished 2-player local multiplayer air hockey game built with Unity
 6.3 LTS and designed for Android landscape devices.
@@ -125,17 +125,14 @@ development and testing.
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🎮 Gameplay
-![Air Hockey Gameplay](Assets/Screenshots/gameplay.png)
+![Air Hockey Gameplay](Assets/Screenshots/gameplay.jpg)
 
 ### 🏆 Score System
-![Score System](Assets/Screenshots/score.png)
+![Score System](Assets/Screenshots/score.jpg)
 
 ### 🎉 Winner Screen
-![Winner Screen](Assets/Screenshots/winner.png)
-
+![Winner Screen](Assets/Screenshots/winner.jpg)
 ## 🚀 Future Improvements
 
 Possible future additions include:
