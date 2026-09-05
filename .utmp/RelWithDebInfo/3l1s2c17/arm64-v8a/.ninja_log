@@ -1,0 +1,10 @@
+# ninja log v5
+276	12904	8101697649538859	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	cf184d446a8fbafc
+226	12991	8101697650491098	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	f7a5def85e6245a
+748	13079	8101697652308235	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	eceab499a999f231
+42	13213	8101697654601067	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	5b437ddc2380ca8c
+76	13522	8101697658253595	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6fe80bbdc505f4ca
+517	14558	8101697668630800	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5d884bd8ae5737d2
+151	14733	8101697670477136	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	52def4f8a9d6d718
+3	15339	8101697676581575	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	2a39887ab7e8b205
+15341	15917	8101697682476170	C:/Unity/Unity Projects/Create with Code Unity Project/AirHockeyMobile/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3l1s2c17/obj/arm64-v8a/libgame.so	17af13cb8a600481
